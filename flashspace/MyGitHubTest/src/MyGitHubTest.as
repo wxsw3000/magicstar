@@ -30,13 +30,24 @@ package
 			bigOne.x = 50;
 			bigOne.y = 50;
 			
-			smallOne.x = 200;
-			smallOne.y = 200;
+			smallOne.x = 225;
+			smallOne.y = 225;
 			
 			
 			this.addChild(smallOne);
 			
 			this.addChild(bigOne);
+			
+			
+			var middleOne:Sprite = new Sprite;
+			middleOne.graphics.beginFill(0xccaadd,1);
+			middleOne.graphics.drawRect(0,0,75,75);
+			middleOne.graphics.endFill();
+			
+			middleOne.x = 150;
+			middleOne.y = 150;
+			
+			this.addChild(middleOne);
 			
 		}
 	}
