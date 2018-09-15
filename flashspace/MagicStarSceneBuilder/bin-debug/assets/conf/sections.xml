@@ -1,0 +1,17 @@
+<config>
+<flow>
+ 
+
+<section sectionName="INIT">
+<ui uiName="InitUI" classRef="app.module.init.view.InitUI" />
+<controller uiName="InitController" classRef="app.module.init.controller.InitController" />
+</section>
+
+
+<section sectionName="CREATE">
+<ui uiName="CreateUI" classRef="app.module.create.view.CreateUI" />
+<controller uiName="CreateController" classRef="app.module.create.controller.CreateController" />
+</section>
+
+</flow>
+</config>

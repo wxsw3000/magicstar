@@ -1,0 +1,18 @@
+<MapList>
+  <Id>1001</Id>
+  <colNum>10</colNum>
+  <rowNum>10</rowNum>
+  <BackGrounds>
+    <BackGround name="bg_q_001_c" x="29" y="53" type="1" opposide="false"/>
+    <BackGround name="bg_q_001_c" x="244" y="47" type="1" opposide="false"/>
+    <BackGround name="bg_q_001_c" x="176" y="28" type="1" opposide="false"/>
+    <BackGround name="bg_q_001_c" x="295" y="75" type="1" opposide="false"/>
+    <BackGround name="bg_q_001_c" x="90" y="126" type="1" opposide="false"/>
+    <BackGround name="bg_q_001_c" x="143" y="52" type="1" opposide="false"/>
+    <BackGround name="bg_q_001_c" x="19" y="110" type="1" opposide="false"/>
+    <BackGround name="bg_q_001_c" x="232" y="167" type="1" opposide="false"/>
+    <BackGround name="bg_q_001_c" x="106" y="56" type="1" opposide="false"/>
+    <BackGround name="bg_q_001_c" x="197" y="28" type="1" opposide="false"/>
+  </BackGrounds>
+  <mark><![CDATA[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]]></mark>
+</MapList>

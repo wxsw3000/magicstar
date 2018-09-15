@@ -1,0 +1,5 @@
+<Config>
+  <loadInfo name="sections" url="\conf\sections.xml"/>
+  <loadInfo name="config" url="\conf\config.xml"/>
+  <loadInfo name="loadconfig" url="\loadconfig.xml"/>
+</Config>
